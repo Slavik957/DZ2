@@ -1,0 +1,15 @@
+D:\GeekBrains\Seminar2\Домашние задание 2\ДЗ2\bin\Debug\net6.0\ДЗ2.exe
+D:\GeekBrains\Seminar2\Домашние задание 2\ДЗ2\bin\Debug\net6.0\ДЗ2.deps.json
+D:\GeekBrains\Seminar2\Домашние задание 2\ДЗ2\bin\Debug\net6.0\ДЗ2.runtimeconfig.json
+D:\GeekBrains\Seminar2\Домашние задание 2\ДЗ2\bin\Debug\net6.0\ДЗ2.dll
+D:\GeekBrains\Seminar2\Домашние задание 2\ДЗ2\bin\Debug\net6.0\ДЗ2.pdb
+D:\GeekBrains\Seminar2\Домашние задание 2\ДЗ2\obj\Debug\net6.0\ДЗ2.csproj.AssemblyReference.cache
+D:\GeekBrains\Seminar2\Домашние задание 2\ДЗ2\obj\Debug\net6.0\ДЗ2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Seminar2\Домашние задание 2\ДЗ2\obj\Debug\net6.0\ДЗ2.AssemblyInfoInputs.cache
+D:\GeekBrains\Seminar2\Домашние задание 2\ДЗ2\obj\Debug\net6.0\ДЗ2.AssemblyInfo.cs
+D:\GeekBrains\Seminar2\Домашние задание 2\ДЗ2\obj\Debug\net6.0\ДЗ2.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Seminar2\Домашние задание 2\ДЗ2\obj\Debug\net6.0\ДЗ2.dll
+D:\GeekBrains\Seminar2\Домашние задание 2\ДЗ2\obj\Debug\net6.0\refint\ДЗ2.dll
+D:\GeekBrains\Seminar2\Домашние задание 2\ДЗ2\obj\Debug\net6.0\ДЗ2.pdb
+D:\GeekBrains\Seminar2\Домашние задание 2\ДЗ2\obj\Debug\net6.0\ДЗ2.genruntimeconfig.cache
+D:\GeekBrains\Seminar2\Домашние задание 2\ДЗ2\obj\Debug\net6.0\ref\ДЗ2.dll
